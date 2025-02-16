@@ -47,3 +47,7 @@ button:hover {
     width: 100px;
     height: auto;
 }
+
+div.audio-player img {
+    max-width: 100%;
+}
