@@ -1,5 +1,11 @@
 # Parrot Music Site
 
+## THIS REPO IS DEPRECATED
+
+## THE PROJECT IS MERGING WITH [AltaRedwood.work repo](https://github.com/pacificpelican/alta-redwood-work)
+
+---
+
 Welcome to the Parrot Music Site! This static website features a collection of delightful songs about parrots, complete with custom HTML5 audio players and a charming cassette theme.
 
 ## Project Structure
