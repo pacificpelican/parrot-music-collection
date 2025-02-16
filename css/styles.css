@@ -51,3 +51,12 @@ button:hover {
 div.audio-player img {
     max-width: 100%;
 }
+
+.center__text {
+    text-align: center;
+}
+
+p a {
+    color: #3498db;
+    text-decoration: none;
+}
